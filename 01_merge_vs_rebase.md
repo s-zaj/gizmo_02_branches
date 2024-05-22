@@ -1,2 +1,2 @@
-# grafting strategies for branches
+# Grafting Strategies for Branches
 
